@@ -19,7 +19,7 @@ export default class header extends Component {
 					</nav> {/* end #nav-wrap */}
 					<div className="row banner">
 						<div className="banner-text">
-							<h1 className="responsive-headline">M C D M</h1>
+							<h1 className="responsive-headline">M.C.D.M.</h1>
 							<h3>I am Michael Cameron Dudley-Marquez. Seattle based <span>full-stack</span> and <span>front-end</span> <span>web developer</span>. 
 								Learn more <a className="smoothscroll" href="#about">about me </a> 
 								and <a className="smoothscroll" href="#portfolio">my work</a>.
