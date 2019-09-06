@@ -78,10 +78,9 @@ export default class portfolio extends Component {
             <div className="description-box">
               <h4>Demons & Dicerolls</h4>
               <p>Front-end broswer game using a random number generator to roll the dice and defeat the demons.</p>
-              <span className="categories"><i className="fa fa-tag" />Branding, Webdesign</span>
             </div>
             <div className="link-box">
-              <a href="#">Details</a>
+              <a href="https://github.com/mcdudley87/project1">View GitHub Repo</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-01 End */}
@@ -91,10 +90,9 @@ export default class portfolio extends Component {
             <div className="description-box">
               <h4>ReliefLink</h4>
               <p>App designed and made in 36 hours for General Assembly Hackathon.</p>
-              <span className="categories"><i className="fa fa-tag" />Branding, Web Development</span>
             </div>
             <div className="link-box">
-              <a href="#">Details</a>
+              <a href="https://github.com/mcdudley87/hackathon-app">View GitHub Repo</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-02 End */}
@@ -104,10 +102,10 @@ export default class portfolio extends Component {
             <div className="description-box">
               <h4>Arcademy</h4>
               <p>Full-stack web app for creating and managing Dungeons & Dragons spellbooks by user and character.</p>
-              <span className="categories"><i className="fa fa-tag" />Branding</span>
             </div>
             <div className="link-box">
               <a href="https://frozen-wildwood-55202.herokuapp.com/">Launch</a>
+              <a href="https://github.com/mcdudley87/project2">View GitHub Repo</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-03 End */}
@@ -117,10 +115,10 @@ export default class portfolio extends Component {
             <div className="description-box">
               <h4>Bud Books</h4>
               <p>Full-stack web app mapping through cannabis strains API to give user information on effects, flavors, and strains.</p>
-              <span className="categories"><i className="fa fa-tag" />Photography</span>
             </div>
             <div className="link-box">
-              <a href="#">Details</a>
+              {/* <a href="https://safe-inlet-53846.herokuapp.com/">Launch</a> */}
+              <a href="https://github.com/mcdudley87/proj4-budwiser">View GitHub Repo</a>
               <a className="popup-modal-dismiss">Close</a>
             </div>
           </div>{/* modal-04 End */}

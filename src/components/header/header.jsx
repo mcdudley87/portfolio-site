@@ -26,9 +26,9 @@ export default class header extends Component {
 							</h3>
 							<hr />
 							<ul className="social">
-								<li><a href="https://www.linkedin.com/in/m-c-d-m/"><i className="fa fa-linkedin" /></a></li>
-								<li><a href="https://github.com/mcdudley87"><i className="fa fa-github" /></a></li>
-								<li><a href="https://twitter.com/M_C_D_M"><i className="fa fa-twitter" /></a></li>
+								<li><a href="https://www.linkedin.com/in/m-c-d-m/"><i className="fab fa-linkedin" /></a></li>
+								<li><a href="https://github.com/mcdudley87"><i className="fab fa-github" /></a></li>
+								<li><a href="https://twitter.com/M_C_D_M"><i className="fab fa-twitter" /></a></li>
 							</ul>
 						</div>
 					</div>

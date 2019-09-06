@@ -14,16 +14,17 @@ export default class resume extends Component {
           <div className="nine columns main-col">
             <p>My study and practice exposed me to many languages and frameworks. Furthermore, the coursework at 
               General Assembly taught me best practices for rapidly learning and implementing new material on a 
-              short turnaround. Here are some of the technologies I use. 
+              short turnaround. Here are some of the technologies and skills I know and use, or am familiar enough with for use: 
             </p>
             <div className="bars">
+              <p className="tech-skills">
+                    JavaScript | Node.js | React | Express | HTML | CSS | WordPress |  MongoDB | Mongoose | SQL | Sequelize | 
+                    TypeScript | Python | Writing | Editing 
+              </p>    
               <ul className="skills">
-                <li><span className="bar-expand photoshop" /><em>React</em></li>
-                <li><span className="bar-expand illustrator" /><em>Node.js</em></li>
-                <li><span className="bar-expand html5" /><em>HTML5</em></li>
-                <li><span className="bar-expand css" /><em>CSS</em></li>
-                <li><span className="bar-expand jquery" /><em>SQL</em></li>
-                <li><span className="bar-expand wordpress" /><em>Wordpress</em></li>
+                {/* <li><span className="bar-expand html5" /><em></em></li>
+                <li><span className="bar-expand css" /><em></em></li>
+                <li><span className="bar-expand jquery" /><em></em></li> */}
               </ul>
             </div>{/* end skill-bars */}
           </div> {/* main-col end */}
@@ -40,7 +41,7 @@ export default class resume extends Component {
                 <h3>General Assembly</h3>
                 <p className="info">Software Engineering Immersive <span>•</span> <em className="date">May 2019 - August 2019</em></p>
                 <p>
-                  5500+ hour, full-time immersive software engineering bootcamp spanning front-end and back-end development, 
+                  500+ hour, full-time immersive software engineering bootcamp spanning front-end and back-end development, 
                   computer science, and deadline driven production practices.
                 </p>
               </div>

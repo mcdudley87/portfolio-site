@@ -16,10 +16,13 @@ export default class about extends Component {
               I work to bring interaction and reaction through engaging applications, captivating content, 
               and striking design. I strive to build human community and technological accessibility to mold a 
               more unified world. 
-              <p className="tech-skills">
-                  <span>JavaScript | Node.js | React | Express | MongoDB | Mongoose | SQL | Sequelize | HTML | CSS</span><br />
-                  <span>WordPress | Writing | Editing </span><br />
-                </p>
+                <p className="tech-icons">
+                <i class="fab fa-html5 fa-5x"></i> {' '}
+                <i class="fab fa-css3 fa-5x"></i> {' '}
+                <i class="fab fa-js fa-5x"></i> {' '}
+                <i class="fab fa-node-js fa-5x"></i> {' '}
+                <i class="fab fa-react fa-5x"></i>  
+              </p>
             </div>
             <div className="row">
               <div className="columns contact-details">
