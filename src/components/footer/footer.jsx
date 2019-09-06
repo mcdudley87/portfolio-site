@@ -14,7 +14,7 @@ export default class footer extends Component {
             </ul>
             <ul className="copyright">
               <li>© Copyright CeeVee</li>
-              <li>Temporary Design Built with <a title="Styleshout" href="http://www.styleshout.com/">Styleshout, Permanent Site Forthcoming.</a></li>   
+              <li>Temporary Design Built with <a title="Styleshout" href="http://www.styleshout.com/">Styleshout, </a> permanent Site Forthcoming.</li>   
             </ul>
           </div>
           <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
