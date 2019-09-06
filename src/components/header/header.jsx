@@ -11,8 +11,8 @@ export default class header extends Component {
 						<ul id="nav" className="nav">
 							<li className="current"><a className="smoothscroll" href="#home">Home</a></li>
 							<li><a className="smoothscroll" href="#about">About</a></li>
-							<li><a className="smoothscroll" href="#resume">Resume</a></li>
 							<li><a className="smoothscroll" href="#portfolio">Projects</a></li>
+							<li><a className="smoothscroll" href="#resume">Resume</a></li>
 							{/* <li><a className="smoothscroll" href="#testimonials">Testimonials</a></li> */}
 							<li><a className="smoothscroll" href="#contact">Contact</a></li>
 						</ul> {/* end #nav */}
@@ -20,7 +20,7 @@ export default class header extends Component {
 					<div className="row banner">
 						<div className="banner-text">
 							<h1 className="responsive-headline">M.C.D.M.</h1>
-							<h3>I am Michael Cameron Dudley-Marquez. Seattle based <span>full-stack</span> and <span>front-end</span> <span>web developer</span>. 
+							<h3>I am Michael Cameron Dudley-Marquez, a Seattle based full-stack web developer. 
 								Learn more <a className="smoothscroll" href="#about">about me </a> 
 								and <a className="smoothscroll" href="#portfolio">my work</a>.
 							</h3>

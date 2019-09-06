@@ -11,12 +11,16 @@ export default class about extends Component {
           </div>
           <div className="nine columns main-col">
             <h2>About Me</h2>
-            <p>Freelance web developer and career changer. Graduate of General Assembly's Software Engineering Immersive.
-              I work to bring interaction and reaction through engaging applications, 
-              captivating content, and striking design. I strive to build human community and technological accessibility to mold a 
-              more unified world. My work history includes 7 years medical experience working with diverse patient base, 15 years 
-              writing / entertainment experience, and 11 years client-facing customer service and patient care experience.
-            </p>
+            <div className="about-me">
+              Freelance web developer. Graduate of General Assembly's Software Engineering Immersive.
+              I work to bring interaction and reaction through engaging applications, captivating content, 
+              and striking design. I strive to build human community and technological accessibility to mold a 
+              more unified world. 
+              <p className="tech-skills">
+                  <span>JavaScript | Node.js | React | Express | MongoDB | Mongoose | SQL | Sequelize | HTML | CSS</span><br />
+                  <span>WordPress | Writing | Editing </span><br />
+                </p>
+            </div>
             <div className="row">
               <div className="columns contact-details">
                 <h2>Contact</h2>
@@ -29,7 +33,7 @@ export default class about extends Component {
               </div>
               <div className="columns download">
                 <p>
-                  <a href="#" className="button"><i className="fa fa-download" />Download Resume</a>
+                  {/* <a href="#" className="button"><i className="fa fa-download" />Download Resume</a> */}
                 </p>
               </div>
             </div> {/* end row */}

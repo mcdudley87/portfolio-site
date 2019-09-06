@@ -58,10 +58,10 @@ export default class portfolio extends Component {
               <div className="columns portfolio-item">
                 <div className="item-wrap">
                   <a href="#modal-04" title>
-                    <img alt="" src="images/portfolio/into-the-light.jpg" />
+                    <img alt="" src="images/portfolio/budbooks-title.jpg" />
                     <div className="overlay">
                       <div className="portfolio-item-meta">
-                        <h5>Bud, Wiser.</h5>
+                        <h5>Bud Books</h5>
                         <p>Full-Stack Application </p>
                       </div>
                     </div>
@@ -113,10 +113,10 @@ export default class portfolio extends Component {
           </div>{/* modal-03 End */}
 
           <div id="modal-04" className="popup-modal mfp-hide">
-            <img className="scale-with-grid" src="images/portfolio/modals/m-intothelight.jpg" alt="" />
+            <img className="scale-with-grid" src="images/portfolio/modals/m-budbooks-title.jpg" alt="" />
             <div className="description-box">
-              <h4>Into the Light</h4>
-              <p>Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum, nec sagittis sem nibh id elit.</p>
+              <h4>Bud Books</h4>
+              <p>Full-stack web app mapping through cannabis strains API to give user information on effects, flavors, and strains.</p>
               <span className="categories"><i className="fa fa-tag" />Photography</span>
             </div>
             <div className="link-box">
