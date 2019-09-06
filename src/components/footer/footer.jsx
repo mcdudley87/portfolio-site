@@ -8,13 +8,13 @@ export default class footer extends Component {
         <div className="row">
           <div className="twelve columns">
             <ul className="social-links">
-              <li><a href="https://www.linkedin.com/in/m-c-d-m/"><i className="fa fa-linkedin" /></a></li>
-              <li><a href="https://github.com/mcdudley87"><i className="fa fa-github" /></a></li>
-              <li><a href="https://twitter.com/M_C_D_M"><i className="fa fa-twitter" /></a></li>
+              <li><a href="https://www.linkedin.com/in/m-c-d-m/"><i className="fab fa-linkedin" /></a></li>
+              <li><a href="https://github.com/mcdudley87"><i className="fab fa-github" /></a></li>
+              <li><a href="https://twitter.com/M_C_D_M"><i className="fab fa-twitter" /></a></li>
             </ul>
             <ul className="copyright">
               <li>© Copyright CeeVee</li>
-              <li>Design by <a title="Styleshout" href="http://www.styleshout.com/">Styleshout</a></li>   
+              <li>Temporary Design Built with <a title="Styleshout" href="http://www.styleshout.com/">Styleshout, Permanent Site Forthcoming.</a></li>   
             </ul>
           </div>
           <div id="go-top"><a className="smoothscroll" title="Back to Top" href="#home"><i className="icon-up-open" /></a></div>
