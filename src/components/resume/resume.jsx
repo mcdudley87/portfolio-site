@@ -71,8 +71,8 @@ export default class resume extends Component {
                 <p className="info">Certified Optometric Vision Therapist <span>•</span> <em className="date">February 2012 - May 2019</em></p>
                 <p>
                 <ul>
-                  <li>* Deliver exceptional care to diverse set of 35 weekly patients. </li> 
-                  <li>* Synthesize medical records and doctor inpur into actionable patient-care plan to 
+                  <li>* Delivered exceptional care to diverse set of 35 weekly patients. </li> 
+                  <li>* Synthesized medical records and doctor input into actionable patient-care plan to 
                         remediate or resolve optometric and neuro-cognitive disabilities through one-on-one therapeutic procedures</li>
                   <li>* Certified by the College of Optometrists in Vision Development, April 18, 2015</li> 
                   <li>* Exceptional Patient Care Award, Alderwood Vision Therapy - November 27th, 2013</li>
