@@ -81,7 +81,7 @@ export default class portfolio extends Component {
             </div>
             <div className="link-box">
               <a href="https://github.com/mcdudley87/project1">View GitHub Repo</a>
-              <a className="popup-modal-dismiss">Close</a>
+              <a className="popup-modal-dismiss"> | Close</a>
             </div>
           </div>{/* modal-01 End */}
 
@@ -93,7 +93,7 @@ export default class portfolio extends Component {
             </div>
             <div className="link-box">
               <a href="https://github.com/mcdudley87/hackathon-app">View GitHub Repo</a>
-              <a className="popup-modal-dismiss">Close</a>
+              <a className="popup-modal-dismiss"> | Close</a>
             </div>
           </div>{/* modal-02 End */}
 
@@ -104,9 +104,9 @@ export default class portfolio extends Component {
               <p>Full-stack web app for creating and managing Dungeons & Dragons spellbooks by user and character.</p>
             </div>
             <div className="link-box">
-              <a href="https://frozen-wildwood-55202.herokuapp.com/">Launch</a>
+              <a href="https://frozen-wildwood-55202.herokuapp.com/">Launch | </a> {''}
               <a href="https://github.com/mcdudley87/project2">View GitHub Repo</a>
-              <a className="popup-modal-dismiss">Close</a>
+              <a className="popup-modal-dismiss"> | Close</a>
             </div>
           </div>{/* modal-03 End */}
 
@@ -119,7 +119,7 @@ export default class portfolio extends Component {
             <div className="link-box">
               {/* <a href="https://safe-inlet-53846.herokuapp.com/">Launch</a> */}
               <a href="https://github.com/mcdudley87/proj4-budwiser">View GitHub Repo</a>
-              <a className="popup-modal-dismiss">Close</a>
+              <a className="popup-modal-dismiss"> | Close</a>
             </div>
           </div>{/* modal-04 End */}
         </div> {/* row End */}

@@ -32,6 +32,7 @@ export default class about extends Component {
                   <span>Seattle, WA
                   </span><br />
                   <span>m-c-d-m@outlook.com</span><br />
+                  <a href="images/dudley-marquez-resume.pdf" class="icon" target="blank"><i class="fas fa-file"></i> View or Download my Resume</a>
                 </p>
               </div>
               <div className="columns download">
