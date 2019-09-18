@@ -16,6 +16,8 @@ export default class resume extends Component {
               General Assembly taught me best practices for rapidly learning and implementing new material on a 
               short turnaround. Here are some of the technologies and skills I know and use, or am familiar enough with for use: 
             </p>
+            <a href="images/dudley-marquez-resume.pdf" class="icon" target="blank"><i class="fas fa-file"></i> View or Download my Resume</a>
+
             <div className="bars">
               <p className="tech-skills">
                     JavaScript | Node.js | React | Express | HTML | CSS | WordPress |  MongoDB | Mongoose | SQL | Sequelize | 
